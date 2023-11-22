@@ -1,0 +1,4 @@
+icecream
+ipykernel
+numpy
+tqdm
